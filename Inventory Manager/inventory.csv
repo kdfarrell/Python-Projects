@@ -1,0 +1,101 @@
+id,item_name,category,quantity,packaging_type
+1,Apple,Fruit,0,Fresh
+2,Banana,Fruit,15,Fresh
+3,Carrot,Vegetable,8,Bag
+4,Flour,Baking,20,Packaged
+5,Milk,Dairy,10,Bottle
+6,Cheddar Cheese,Dairy,5,Block
+7,Rice,Grains,25,Sack
+8,Olive Oil,Condiments,6,Bottle
+9,Chicken,Meat,12,Frozen
+10,Green Tea,Beverages,18,Box
+11,Mangoes,Fruit,100,Fresh
+12,Orange,Fruit,30,Fresh
+13,Potato,Vegetable,50,Bag
+14,Tomato,Vegetable,40,Basket
+15,Bread,Bakery,25,Packaged
+16,Butter,Dairy,12,Pack
+17,Cheese,Dairy,7,Packaged
+18,Oats,Grains,15,Pack
+19,Pasta,Grains,18,Pack
+20,Peanut Butter,Condiments,10,Jar
+21,Beef,Meat,20,Frozen
+22,Salmon,Meat,10,Frozen
+23,Black Tea,Beverages,25,Box
+24,Coffee Beans,Beverages,12,Pack
+25,Grapes,Fruit,22,Fresh
+26,Pineapple,Fruit,15,Fresh
+27,Cucumber,Vegetable,18,Fresh
+28,Lettuce,Vegetable,12,Bag
+29,Cake,Bakery,8,Packaged
+30,Yogurt,Dairy,20,Cup
+31,Milk Powder,Dairy,30,Pack
+32,Wheat,Grains,50,Sack
+33,Corn,Grains,40,Bag
+34,Ketchup,Condiments,15,Bottle
+35,Mustard,Condiments,10,Bottle
+36,Pork,Meat,12,Frozen
+37,Tuna,Meat,18,Canned
+38,Lemonade,Beverages,25,Bottle
+39,Herbal Tea,Beverages,15,Box
+40,Strawberries,Fruit,35,Pack
+41,Blueberries,Fruit,20,Pack
+42,Spinach,Vegetable,12,Bag
+43,Onion,Vegetable,45,Bag
+44,Donuts,Bakery,30,Packaged
+45,Cheese Slice,Dairy,25,Pack
+46,Cream,Dairy,10,Carton
+47,Barley,Grains,40,Sack
+48,Rye,Grains,20,Pack
+49,Mayonnaise,Condiments,12,Jar
+50,Hot Sauce,Condiments,8,Bottle
+51,Lamb,Meat,15,Frozen
+52,Shrimp,Meat,20,Frozen
+53,Cola,Beverages,30,Bottle
+54,Orange Juice,Beverages,18,Carton
+55,Papaya,Fruit,25,Fresh
+56,Peach,Fruit,12,Fresh
+57,Broccoli,Vegetable,15,Bag
+58,Cabbage,Vegetable,22,Fresh
+59,Baguette,Bakery,10,Packaged
+60,Milk Chocolate,Dairy,20,Bar
+61,Goat Cheese,Dairy,5,Pack
+62,Oatmeal,Grains,18,Pack
+63,Quinoa,Grains,15,Pack
+64,Soy Sauce,Condiments,12,Bottle
+65,Vinegar,Condiments,8,Bottle
+66,Turkey,Meat,20,Frozen
+67,Cod,Meat,15,Frozen
+68,Energy Drink,Beverages,25,Can
+69,Green Tea Powder,Beverages,10,Box
+70,Cherries,Fruit,18,Pack
+71,Plums,Fruit,12,Fresh
+72,Zucchini,Vegetable,10,Fresh
+73,Radish,Vegetable,15,Bag
+74,Muffin,Bakery,20,Packaged
+75,Sour Cream,Dairy,12,Container
+76,Ice Cream,Dairy,18,Carton
+77,Rice Cakes,Grains,15,Packaged
+78,Couscous,Grains,20,Pack
+79,BBQ Sauce,Condiments,10,Bottle
+80,Relish,Condiments,8,Jar
+81,Veal,Meat,12,Frozen
+82,Canned Ham,Meat,10,Can
+83,Soda,Beverages,20,Can
+84,Coconut Water,Beverages,15,Carton
+85,Kiwis,Fruit,18,Fresh
+86,Nectarine,Fruit,12,Fresh
+87,Peas,Vegetable,25,Frozen
+88,Green Beans,Vegetable,20,Frozen
+89,Pretzel,Bakery,30,Packaged
+90,Butter Croissant,Bakery,15,Packaged
+91,Milkshake,Dairy,10,Bottle
+92,Greek Yogurt,Dairy,18,Cup
+93,Millet,Grains,20,Pack
+94,Amaranth,Grains,12,Pack
+95,Salsa,Condiments,15,Jar
+96,Honey,Condiments,10,Bottle
+97,Duck,Meat,8,Frozen
+98,Crab,Meat,5,Frozen
+99,Herbal Drink,Beverages,20,Bottle
+100,Black Coffee,Beverages,15,Pack
