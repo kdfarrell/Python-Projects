@@ -1,4 +1,5 @@
 import pandas as pd
+import os
 
 def menu():
     options = ["1", "2", "3", "4", "5"]
@@ -25,7 +26,10 @@ def view_inventory(df):
 
 
 def initialize_inventory():
-    df = pd.read_csv("inventory.csv")
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(base_dir, "inventory.csv")
+
+    df = pd.read_csv(file_path)
     df.columns = ["ID", "Name", "Category", "Quantity", "Packaging Type"]
     df["Quantity"] = pd.to_numeric(df["Quantity"], errors="coerce").astype("Int64")
     return df
