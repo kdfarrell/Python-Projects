@@ -9,3 +9,4 @@ Each project focuses on practicing different concepts such as logic building, da
 | --- | --------------------------------------------------------------------------------------------- | ---------- |
 | 1   | [Inventory Manager](https://github.com/kdfarrell/Python-Projects/tree/main/Expense%20Tracker) | 2026-01-11 |
 | 2   | [Expense Tracker](https://github.com/kdfarrell/Python-Projects/tree/main/Inventory%20Manager) | 2026-01-11 |
+| 3   | [JSON to CSV](https://github.com/kdfarrell/Python-Projects/tree/main/JSON%to%CSV)             | 2026-01-19 |
